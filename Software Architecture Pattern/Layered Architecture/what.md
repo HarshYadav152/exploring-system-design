@@ -1,4 +1,4 @@
-## Focusing on different layers for organising its work on several layers like storing and core businness login in different login ensuring different teams work on different layers
+## Focusing on different layers for organising its work on several layers like storing and core businness logic in different logic ensuring different teams work on different layers
 ## doing work with one do not affect  another layer
 ### consist of these main layers
 ---
