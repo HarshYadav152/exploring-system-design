@@ -7,5 +7,5 @@
 3. Persistense Layer
 4. Database Layer
 
-# like an `an E commerce platform`
+# like an `an Enterprise platform`
 `n-tier archiecture`
